@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lalaland:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e39b6e8-ee00-4b2d-91b0-728156a8e418" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/db/sampledb.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/cmmn/EgovSampleExcepHndlr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/cmmn/EgovSampleOthersExcepHndlr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/cmmn/web/EgovBindingInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/cmmn/web/EgovImgPaginationRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/sample/service/EgovSampleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/sample/service/SampleDefaultVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/sample/service/SampleVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/sample/service/impl/EgovSampleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/sample/service/impl/SampleDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/sample/service/impl/SampleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/example/sample/web/EgovSampleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/message/message-common.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/message/message-common_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/message/message-common_ko.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/spring/context-aspect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/spring/context-common.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/spring/context-datasource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/spring/context-idgen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/spring/context-mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/spring/context-properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/spring/context-sqlMap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/spring/context-transaction.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/spring/context-validator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/sqlmap/example/mappers/EgovSample_Sample_SQL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/sqlmap/example/sample/EgovSample_Sample_SQL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/sqlmap/example/sql-map-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/egovframework/sqlmap/example/sql-mapper-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lalaLand/main/service/mainService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lalaLand/main/web/mainController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/db/sampledb.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/cmmn/EgovSampleExcepHndlr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/cmmn/EgovSampleOthersExcepHndlr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/cmmn/web/EgovBindingInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/cmmn/web/EgovImgPaginationRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/sample/service/EgovSampleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/sample/service/SampleDefaultVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/sample/service/SampleVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/sample/service/impl/EgovSampleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/sample/service/impl/SampleDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/sample/service/impl/SampleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/example/sample/web/EgovSampleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/message/message-common.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/message/message-common_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/message/message-common_ko.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/spring/context-aspect.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/spring/context-common.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/spring/context-datasource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/spring/context-idgen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/spring/context-mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/spring/context-properties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/spring/context-sqlMap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/spring/context-transaction.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/spring/context-validator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/sqlmap/example/mappers/EgovSample_Sample_SQL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/sqlmap/example/sample/EgovSample_Sample_SQL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/sqlmap/example/sql-map-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/egovframework/sqlmap/example/sql-mapper-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/lalaLand/main/service/mainService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/lalaLand/main/web/mainController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/classes/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/config/egovframework/springmvc/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/config/egovframework/validator/validator-rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/config/egovframework/validator/validator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/jsp/egovframework/example/cmmn/dataAccessFailure.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/jsp/egovframework/example/cmmn/egovBizException.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/jsp/egovframework/example/cmmn/egovError.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/jsp/egovframework/example/cmmn/transactionFailure.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/jsp/egovframework/example/cmmn/validator.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/jsp/egovframework/example/sample/egovSampleList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/jsp/egovframework/example/sample/egovSampleRegister.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/jsp/views/web/main.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/ST4-4.0.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/activation-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/antlr-3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/antlr-runtime-3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/aspectjweaver-1.8.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/commons-digester-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/commons-lang3-3.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/commons-validator-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/egovframework.rte.fdl.cmmn-3.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/egovframework.rte.fdl.idgnr-3.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/egovframework.rte.fdl.logging-3.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/egovframework.rte.fdl.property-3.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/egovframework.rte.psl.dataaccess-3.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/egovframework.rte.ptl.mvc-3.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/hsqldb-2.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/ibatis-sqlmap-2.3.4.726.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/javaee-api-7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/javax.mail-1.5.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/jcl-over-slf4j-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/log4j-api-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/log4j-core-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/log4j-over-slf4j-1.7.26.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/log4j-slf4j-impl-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-aop-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-beans-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-context-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-context-support-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-core-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-expression-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-jdbc-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-modules-validation-0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-orm-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-tx-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-web-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/spring-webmvc-4.3.22.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/lib/stringtemplate-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/common/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/css/egovframework/sample.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/font/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/font/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/font/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/font/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/font/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/font/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/egovframework/cmmn/btn_page_next1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/egovframework/cmmn/btn_page_next10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/egovframework/cmmn/btn_page_pre1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/egovframework/cmmn/btn_page_pre10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/egovframework/example/btn_bg_l.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/egovframework/example/btn_bg_r.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/egovframework/example/civilappeal_topmn_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/egovframework/example/paging_line.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/egovframework/example/th_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/egovframework/example/title_dot.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/fulls/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/fulls/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/fulls/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/fulls/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/fulls/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/fulls/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/fulls/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/thumbs/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/thumbs/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/thumbs/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/thumbs/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/thumbs/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/thumbs/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/images/thumbs/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/js/jquery.poptrox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/lalaland-1.0.0/js/skel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.lalaland.www/lalaland/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.lalaland.www/lalaland/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Python Script" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\wjm\eclipse-workspace\lalaland" />
+        <option value="C:\Users\wjm\eclipse-workspace\lalaland\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1cJQkQjzbVFIitBTMiBdOEtfv3F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/images" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wjm\eclipse-workspace\lalaland\src\main\webapp\images" />
+      <recent name="C:\Users\wjm\eclipse-workspace\lalaland\src\main\webapp\css" />
+      <recent name="C:\Users\wjm\eclipse-workspace\lalaland\src\main\webapp\font" />
+      <recent name="C:\Users\wjm\eclipse-workspace\lalaland\src\main\webapp\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.51" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.51" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="lalaland:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_lalaland" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57424" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lalaland:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e39b6e8-ee00-4b2d-91b0-728156a8e418" name="Default Changelist" comment="" />
+      <created>1590244358839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590244358839</updated>
+      <workItem from="1590244365202" duration="3446000" />
+      <workItem from="1590278406863" duration="2260000" />
+      <workItem from="1590281183778" duration="985000" />
+      <workItem from="1590312500713" duration="1163000" />
+      <workItem from="1590322995320" duration="2812000" />
+      <workItem from="1590407003657" duration="843000" />
+    </task>
+    <task id="LOCAL-00001" summary="change TEST">
+      <created>1590326436453</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590326436453</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change TEST" />
+    <option name="LAST_COMMIT_MESSAGE" value="change TEST" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2660" y="325" key="#BuildArtifactsBeforeRunChooser" timestamp="1590312744730">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="325" key="#BuildArtifactsBeforeRunChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590312744730" />
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590312753335">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590312753335" />
+    <state x="2472" y="178" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1590279481379">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="178" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590279481379" />
+    <state x="2497" y="27" key="CommitChangelistDialog2" timestamp="1590326435223">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2497" y="27" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590326435223" />
+    <state x="2759" y="414" width="265" height="212" key="Github.ShareDialog" timestamp="1590324913143">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2759" y="414" width="265" height="212" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590324913143" />
+    <state x="2591" y="143" key="Github.UntrackedFilesDialog" timestamp="1590324929549">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2591" y="143" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590324929549" />
+    <state width="1293" height="459" key="GridCell.Tab.0.bottom" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.0.center" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.0.left" timestamp="1590325425140">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425140" />
+    <state width="1293" height="459" key="GridCell.Tab.0.right" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.1.bottom" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.1.center" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.1.left" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.1.right" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.2.bottom" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.2.center" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.2.left" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.2.right" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.3.bottom" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.3.center" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.3.left" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state width="1293" height="459" key="GridCell.Tab.3.right" timestamp="1590325425141">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="459" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590325425141" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1590324856442">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590324856442" />
+    <state x="2472" y="249" key="Vcs.Push.Dialog.v2" timestamp="1590407987474">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590407987474" />
+    <state x="2497" y="40" width="766" height="960" key="find.popup" timestamp="1590278722778">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2497" y="40" width="766" height="960" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590278722778" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590245174949">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1590245174949" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/lalaLand/main/web/mainController.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
